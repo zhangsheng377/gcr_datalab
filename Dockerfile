@@ -1,1 +1,1 @@
-FROM gcr.io/cloud-datalab/datalab:local-20170224
+FROM gcr.io/cloud-datalab/datalab
